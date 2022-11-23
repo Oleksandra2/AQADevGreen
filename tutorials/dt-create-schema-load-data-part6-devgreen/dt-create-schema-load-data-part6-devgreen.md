@@ -48,8 +48,6 @@ Verify everything executed correctly.
 
 ![Restore Success](restore-success.png)
 
-[VALIDATE_1]
-
 [ACCORDION-END]
 
 [ACCORDION-BEGIN [Step 2: ](Create Migration Stored Procedure)]
